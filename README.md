@@ -45,3 +45,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 After download or clone run `npm install` OR `yarn install` to install all the dependancies.
 also do not forget to rename `.env.example` into `.env` an put all creadentials.
+
+![screen recorder windows 10 - Google Search — Mozilla Firefox 2021-06-27 23-07-43_Trim_Trim](https://user-images.githubusercontent.com/50631450/123554794-676e8400-d79f-11eb-9946-3fd35da32102.gif)
+
